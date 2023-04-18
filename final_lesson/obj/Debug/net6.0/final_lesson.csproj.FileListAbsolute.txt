@@ -1,0 +1,15 @@
+G:\Учёба\Практика\GB\quarter_total\final_lesson\bin\Debug\net6.0\final_lesson.exe
+G:\Учёба\Практика\GB\quarter_total\final_lesson\bin\Debug\net6.0\final_lesson.deps.json
+G:\Учёба\Практика\GB\quarter_total\final_lesson\bin\Debug\net6.0\final_lesson.runtimeconfig.json
+G:\Учёба\Практика\GB\quarter_total\final_lesson\bin\Debug\net6.0\final_lesson.dll
+G:\Учёба\Практика\GB\quarter_total\final_lesson\bin\Debug\net6.0\final_lesson.pdb
+G:\Учёба\Практика\GB\quarter_total\final_lesson\obj\Debug\net6.0\final_lesson.csproj.AssemblyReference.cache
+G:\Учёба\Практика\GB\quarter_total\final_lesson\obj\Debug\net6.0\final_lesson.GeneratedMSBuildEditorConfig.editorconfig
+G:\Учёба\Практика\GB\quarter_total\final_lesson\obj\Debug\net6.0\final_lesson.AssemblyInfoInputs.cache
+G:\Учёба\Практика\GB\quarter_total\final_lesson\obj\Debug\net6.0\final_lesson.AssemblyInfo.cs
+G:\Учёба\Практика\GB\quarter_total\final_lesson\obj\Debug\net6.0\final_lesson.csproj.CoreCompileInputs.cache
+G:\Учёба\Практика\GB\quarter_total\final_lesson\obj\Debug\net6.0\final_lesson.dll
+G:\Учёба\Практика\GB\quarter_total\final_lesson\obj\Debug\net6.0\refint\final_lesson.dll
+G:\Учёба\Практика\GB\quarter_total\final_lesson\obj\Debug\net6.0\final_lesson.pdb
+G:\Учёба\Практика\GB\quarter_total\final_lesson\obj\Debug\net6.0\final_lesson.genruntimeconfig.cache
+G:\Учёба\Практика\GB\quarter_total\final_lesson\obj\Debug\net6.0\ref\final_lesson.dll
